@@ -1,0 +1,15 @@
+[project]
+name = "aqi-forecast-ui"
+version = "0.1.0"
+description = "Demo UI for the next-day AQI forecast service"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.40",
+    "requests>=2.31",
+    "pandas>=2.2",
+    "altair>=5",
+    "pydeck>=0.9",
+]
+
+[tool.uv]
+package = false

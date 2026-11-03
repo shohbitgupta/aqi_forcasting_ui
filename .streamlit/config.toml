@@ -1,0 +1,14 @@
+# Light and dark each set only the accent colour, so the app still follows the viewer's system
+# setting. Blue, so the accent is never mistaken for an AQI category colour.
+
+[theme.light]
+primaryColor = "#2A6FDB"
+
+[theme.dark]
+primaryColor = "#6EA4FF"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
