@@ -56,3 +56,5 @@ requirements.txt        the same, for Streamlit Community Cloud
 
 The category colours follow CPCB's AQI scale, adjusted for contrast. Colour is never the only cue:
 every category is also written out, with its AQI range.
+
+<img width="1470" height="719" alt="Screenshot 2026-11-03 at 16 16 15" src="https://github.com/user-attachments/assets/b1d854c9-06a1-425d-8409-efcc5c06f1a0" />
