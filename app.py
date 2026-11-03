@@ -15,7 +15,7 @@ import pydeck as pdk
 import requests
 import streamlit as st
 
-API_URL = os.environ.get('AQI_API_URL', 'https://aqi-forcasting-v2.onrender.com').rstrip('/')
+API_URL = os.environ.get('AQI_API_URL', 'https://aqi-forcasting-2.onrender.com').rstrip('/')
 TIMEOUT = 180            # the free server sleeps when idle: the first request wakes it, up to a minute
 
 # CPCB's AQI categories, in order, with the colours of its scale (adjusted for contrast). Colour is

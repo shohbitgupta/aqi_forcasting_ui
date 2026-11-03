@@ -24,7 +24,7 @@ uv sync
 uv run streamlit run app.py              # opens http://localhost:8501
 ```
 
-It uses the deployed service, https://aqi-forcasting-v2.onrender.com. To use another one, for example
+It uses the deployed service, https://aqi-forcasting-2.onrender.com. To use another one, for example
 the service running locally from the aqi_forcasting repository:
 
 ```bash
